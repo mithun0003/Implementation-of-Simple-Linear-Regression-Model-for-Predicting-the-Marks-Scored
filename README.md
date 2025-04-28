@@ -24,8 +24,8 @@ compare the graphs and hence we obtained the linear regression for the given dat
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: 
-RegisterNumber:  
+Developed by: MITHUN G
+RegisterNumber:  212223080030
 */
 import pandas as pd
 import numpy as np
